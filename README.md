@@ -288,6 +288,10 @@ while True:
     clock.tick(60)
 
 ```
+### Output:
+
+![WhatsApp Image 2026-02-13 at 11 09 11 AM](https://github.com/user-attachments/assets/dee9f5c6-88e3-4ef6-88a7-e5c750f5e100)
+
 ### Result:
 
 The system successfully converts hand gestures into drone control signals.
